@@ -1,0 +1,15 @@
+
+.Button{
+    background-color: Transparent;
+    /* background-repeat:no-repeat; */
+    
+    cursor:pointer;
+    /* overflow: hidden; */
+    /* outline:none; */
+    padding: 1em 2em 1em 2em;
+    border: 2px solid #ccc;
+    font-size: 15px;
+}
+.Button:hover{
+    background-color: #009999;
+}
